@@ -1,0 +1,7 @@
+.parkcontainer {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  background: #acacac;
+  padding: 96px;
+  gap: 83px;
+}

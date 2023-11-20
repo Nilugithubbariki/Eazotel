@@ -1,0 +1,10 @@
+.wrapper {
+  height: 313px;
+  background: url("https://static.wixstatic.com/media/1a208f_6c8a159920a548918bd6925e13ce1cea~mv2.jpg/v1/fill/w_1470,h_600,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/1a208f_6c8a159920a548918bd6925e13ce1cea~mv2.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.main {
+  padding: 86px;
+  color: white;
+}

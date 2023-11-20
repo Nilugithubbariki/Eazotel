@@ -1,0 +1,36 @@
+.cardStyle {
+  display: grid;
+  gap: 31px;
+  grid-template-columns: repeat(2, 1fr);
+  background: #29422c;
+  padding: 66px;
+}
+.buttonStyle {
+  text-align: center;
+  margin: 22px;
+}
+.btnStyle {
+  border-radius: 11px;
+  border: none;
+  text-align: center;
+  background: #29422c;
+  color: white;
+  height: 32px;
+  width: 101px;
+  cursor: pointer;
+}
+.subCardStyle {
+  border: 1px solid black;
+  background: #acacac;
+  color: black;
+}
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  .cardStyle {
+    width: 867px;
+  }
+}
+@media screen and (max-width: 600px) {
+  .cardStyle {
+    width: 869px;
+  }
+}
